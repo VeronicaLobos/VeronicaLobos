@@ -11,4 +11,5 @@
 
 ## Previously
 - In person experience: Chef, Customer Service, Sales
-- Freelance experience: Illustrator, Proofreading, Translation, Content Creation, Crochet/Plushes artist
+- Freelance experience: Illustrator, Proofreading, Translation, Transcription
+- Artist: Web Content Creation, Crochet/Plushes artist
