@@ -10,6 +10,6 @@
 - Spanish 100% | English 99% | German 25% | Japanese 40%
 
 ## Previously
-- In person experience: Chef, Customer Service, Sales
-- Freelance experience: Illustrator, Proofreading, Translation, Transcription
-- Artist: Web Content Creation, Crochet/Plushes artist
+- In person experience: Chef, Customer Service, Sales/Marketing
+- Freelance experience: Illustrator, Proofreading, Translation, Transcription, Web Content Creation
+- Artist: Embroidery, Crochet/Amigurumi, Plushes, Pattern design
