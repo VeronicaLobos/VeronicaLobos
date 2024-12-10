@@ -7,7 +7,7 @@
 ## Currently
 - <a href="https://de.masterschool.com/en/domains/software-engineering/">Software Eng Student at MasterSchool</a>, Sept'24 - Nov'25
 - EducationFirst Deutschkurs A2
-- Spanish 100% | English 99% | German 25% | Japanese 40%
+- Spanish 100% | English 99% | German 30% | Japanese 40%
 
 ## Previously
 - _In person experience_: Chef, Customer Service, Sales/Marketing, Research Collaborator
