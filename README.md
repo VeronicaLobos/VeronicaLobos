@@ -5,9 +5,11 @@
 <img src="https://i.imgur.com/JzGy5wA.png" width="200" alt="About me">
 
 Hi there, I'm a 37yo originally from Spain. I have experienced different cultural backgrounds and worked in a range of fields,
-which has allowed me to gain perspective, value contrast and, in general, to become a flexible person adapted to change.
+which has allowed me to gain perspective, to value contrast and, in general, to become a flexible person adapted to change.
+
 Since the arrival of AI I found out that I needed to move on to a field were I could deploy all the skills, knowledge and experience
-I've gained, while being able to keep learning. I found myself having fun while coding and I can also be quite creative with it, and I always want to learn more.
+I've gained, while being able to keep learning. I found myself having fun while coding and I can also be quite creative with it.
+
 
 ## Currently
 - <a href="https://de.masterschool.com/en/domains/software-engineering/">Software Eng Student at MasterSchool</a>, Sept'24 - Nov'25
