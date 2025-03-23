@@ -36,3 +36,6 @@ Procreate
 
 ## Hobbies
 Coding, Reading, Designing, Hiking
+
+## Check out my learning progress <a href="https://github.com/VeronicaLobos/first_steps">_here_</a>
+
