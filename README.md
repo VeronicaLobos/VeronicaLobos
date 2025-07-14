@@ -3,7 +3,13 @@
 -->
 
 https://veronicalobos.pythonanywhere.com/ <- SSR RESTful API Flask + SQLAlchemy + SQLite
+
+	TODO: Add user management
+
 https://marginal-wallet-api.onrender.com/docs <- Currently working on my V2 CSR Restful API FastAPI + SQLModel + PostgreSQL
+
+	Jul 14th >>> Free tier deployment on Render will expire soon, working on deployment Docker + AWS EC2
+
 
 <img src="https://i.imgur.com/JzGy5wA.png" width="200" alt="About me">
 
@@ -43,8 +49,7 @@ Since the arrival of AI and the global pandemic, I found out that I needed to mo
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
-
-  Currently implementing EC2 <img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
 </div>
 
 
