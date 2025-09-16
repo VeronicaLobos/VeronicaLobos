@@ -2,13 +2,7 @@
 **VeronicaLobos/VeronicaLobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-https://veronicalobos.pythonanywhere.com/ <- SSR RESTful API Flask + SQLAlchemy + SQLite
-
-	TODO: Add user management
-
-https://marginal-wallet-api.onrender.com/docs <- Currently working on my V2 CSR Restful API FastAPI + SQLModel + PostgreSQL
-
-	Jul 14th >>> Free tier deployment on Render will expire soon, working on deployment Docker + AWS EC2
+	Currently_   Internship at Webeet ::Sept 15th - Nov 8th::
 
 
 <img src="https://i.imgur.com/JzGy5wA.png" width="200" alt="About me">
