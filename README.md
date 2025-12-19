@@ -2,7 +2,7 @@
 **VeronicaLobos/VeronicaLobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-	Currently_   Internship at Webeet with DevSecOps team ::Sept 15th - Nov 8th::
+	Currently_   Volunteering @ Webeet's DevSecOps team
 	
 <p align="right">
   	<img src="https://api.boot.dev/v1/users/public/2606939e-ea9c-41d4-8d0d-17da4a9e066d/thumbnail" >
@@ -11,18 +11,13 @@
 
 <img src="https://i.imgur.com/JzGy5wA.png" width="200" alt="About me">
 
-* Junior Python BackEnd Engineer *
+* Python–FastAPI–SQLModel–Postgres BackEnd Engineer ** Unit + E2E testing
+* GoogleCloud–AWS–Terraform Cloud Eng + QA env
+* ElasticStack / LokiStack DevSecOps
 
-Hi there, I'm a 37yo originally from Spain. I have experienced different cultural backgrounds and worked in a range of fields,
-which has allowed me to gain perspective, value contrast, and, in general, become a flexible person adapted to change.
-
-Since the arrival of AI and the global pandemic, I found out that I needed to move on to a field where I could deploy all the skills, knowledge, and experience I've gained while I keep learning. I found myself having fun while coding and I can also be quite creative with it.
-
-
-## Currently
+## Knowledge
 - <a href="https://de.masterschool.com/en/domains/software-engineering/">Software Eng Student at MasterSchool</a>, Sept'24 - Nov'25
-- EducationFirst Deutschkurs A2
-- Spanish 100% | English 99% | German 30% | Japanese 40%
+- Spanish 100% | English 99% | German 40% | Japanese 40%
 
 ## Previously
 - _In-person experience_: Chef, Customer Service, Sales/Marketing, Research Collaborator
